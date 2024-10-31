@@ -1,1 +1,2 @@
-Se agrega primer documento de prueba
+Se agrega primer documento de prueba. 
+Este archivo inicial se agrega una linea
